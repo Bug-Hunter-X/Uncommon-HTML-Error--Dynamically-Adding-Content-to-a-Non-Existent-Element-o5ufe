@@ -1,0 +1,3 @@
+# Uncommon HTML Error: Dynamically Adding Content to Non-Existent Element
+
+This repository demonstrates a common yet often overlooked error in HTML: attempting to manipulate a DOM element that hasn't been defined in the HTML structure before Javascript execution. The provided code includes both the erroneous version and a corrected version, illustrating the importance of ensuring all elements referenced by Javascript exist in the HTML before runtime.
